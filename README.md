@@ -4,7 +4,7 @@ Welcome to my 100 Days of Python challenge!
 
 Starting Date: June 2, 2025
 Ending Date: N/A
-Currently on Day: 4
+Currently on Day: 5
 ## 📚 Origin
 
 This challenge is based on the [100 Days of Code: Python Bootcamp](https://www.udemy.com/course/100-days-of-code/) by Dr. Angela Yu on Udemy. It's an intensive and beginner-to-advanced course that dives into Python fundamentals, projects, and concepts including web development, game development, data science, and automation.
